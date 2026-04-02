@@ -1,27 +1,27 @@
 [
   {
     "name": "哭泣自嘲熊",
-    "path": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_001_cry_nagano.jpg",
+    "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_001_cry_nagano.jpg",
     "keywords": ["难过", "哭", "委屈", "呜呜"]
   },
   {
     "name": "开心狗狗",
-    "path": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_002_happy_dog.jpg",
+    "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_002_happy_dog.jpg",
     "keywords": ["开心", "高兴", "耶", "好棒", "激动"]
   },
   {
     "name": "疑惑狗狗",
-    "path": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_003_wonder_dog.jpg",
+    "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_003_wonder_dog.jpg",
     "keywords": ["疑惑", "思考", "嗯？", "怎么回事"]
   },
   {
     "name": "飞吻企鹅",
-    "path": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_004_kiss_penguin.jpg",
+    "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_004_kiss_penguin.jpg",
     "keywords": ["亲亲", "爱你", "mua", "老公"]
   },
   {
     "name": "贴贴自嘲熊",
-    "path": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_005_intimate_nagano.gif",
+    "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_005_intimate_nagano.gif",
     "keywords": ["贴贴", "抱抱", "亲密", "乖"]
   }
 ]
