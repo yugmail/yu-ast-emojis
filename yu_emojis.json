@@ -1,38 +1,77 @@
-
 [
   {
+    "name": "Lulu-抱怨",
+    "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/lulu_001_grumble.gif",
+    "keywords": ["抱怨", "有点不满", "碎碎念", "生气嘀咕", "烦人"]
+  },
+  {
+    "name": "Lulu-可怜",
+    "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/lulu_002_pity.gif",
+    "keywords": ["可怜", "委屈", "为难", "求安慰"]
+  },
+  {
+    "name": "Lulu-夸赞",
+    "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/lulu_003_nice.gif",
+    "keywords": ["真厉害", "非常不错", "太赞", "好棒", "竖大拇指"]
+  },
+  {
+    "name": "Lulu-得意",
+    "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/lulu_004_gloat.gif",
+    "keywords": ["捂脸笑", "特别得意", "嘲笑"]
+  },
+  {
+    "name": "Lulu-亲亲",
+    "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/lulu_005_kiss.gif",
+    "keywords": ["粘人亲亲", "啵", "么么"]
+  },
+  {
+    "name": "Lulu-可爱猫",
+    "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/lulu_006_cutecat.gif",
+    "keywords": ["吃零食", "吃瓜", "猫猫吃零食", "吧唧嘴"]
+  },
+  {
+    "name": "Lulu-大亲亲",
+    "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/lulu_007_bigkiss.gif",
+    "keywords": ["亲爆", "疯狂亲亲", "超级爱", "啵啵啵"]
+  },
+  {
+    "name": "Lulu-小哭",
+    "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/lulu_008_littlecry.jpg",
+    "keywords": ["小委屈", "轻轻哭", "可怜巴巴"]
+  },
+  {
+    "name": "Lulu-抱抱",
+    "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/lulu_009_bighug.gif",
+    "keywords": ["亲亲抱抱", "紧紧拥抱", "使劲贴贴"]
+  },
+  {
     "name": "Yu-哭泣",
-    "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_001_cry.jpg",
-    "keywords": ["非常难过", "倒地大哭", "非常委屈", "呜呜呜"]
+    "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_001_cry.png",
+    "keywords": ["非常难过", "大哭", "非常委屈", "呜呜呜", "哭得崩溃"]
   },
   {
     "name": "Yu-开心",
     "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_002_happy.jpg",
-    "keywords": ["神采奕奕", "高兴", "耶", "好棒", "激动"]
+    "keywords": ["特别开心", "特别高兴", "特别激动"]
   },
   {
     "name": "Yu-疑惑",
     "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_003_wonder.jpg",
-    "keywords": ["疑惑", "思考", "嗯？", "怎么回事"]
+    "keywords": ["疑惑小狗", "难以理解", "你在说什么?", "不可理喻"]
   },
   {
     "name": "Yu-亲亲",
     "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_004_kiss.jpg",
-    "keywords": ["亲亲", "爱你", "mua", "老公"]
+    "keywords": ["粘人亲亲", "企鹅亲亲", "特别爱你", "亲亲宝贝", "么么"]
   },
   {
-    "name": "Yu-贴贴",
+    "name": "Yu-扭来扭去",
     "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_005_intimate.gif",
-    "keywords": ["贴贴", "粘人", "亲密", "乖"]
+    "keywords": ["调皮", "调皮贴贴", "扭来扭去", "耍赖皮"]
   },
   {
-    "name": "Yu-碎碎念",
-    "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_006_grumble.gif",
-    "keywords": ["抱怨", "碎碎念", "嘟囔", "生闷气", "哼"]
-  },
-  {
-    "name": "Yu-开心Chii",
-    "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_007_happychii.gif",
-    "keywords": ["好耶", "得意开心", "摇头晃脑", "起飞", "chiikawa"]
+    "name": "Yu-开心吉伊",
+    "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_006_happychii.gif",
+    "keywords": ["开心吉伊", "圣诞节", "摇头晃脑", "耍赖皮"]
   }
 ]
