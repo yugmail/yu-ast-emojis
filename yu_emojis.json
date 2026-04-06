@@ -1,95 +1,95 @@
 [
   {
-    "_comment": "keywords在当前插件中不生效，仅作为未来扩展备用，请勿删除"
+    "_comment": "keywords在当前插件中不生效，仅作为未来扩展备用，请勿删除。category必须包含插件emotion_mapping中的primary关键词才能被正确匹配。"
   },
   {
     "name": "Lulu-抱怨",
-    "category": "抱怨 生气 不满 烦",
+    "category": "调皮 搞怪 淘气 嬉戏",
     "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/lulu_001_grumble.gif",
-    "keywords": ["碎碎念", "吐槽"]
+    "keywords": ["碎碎念", "吐槽", "抱怨", "生气", "不满", "烦"]
   },
   {
     "name": "Lulu-可怜",
-    "category": "委屈 难过 哭 可怜",
+    "category": "抱歉 不好意思 对不起 道歉",
     "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/lulu_002_pity.gif",
-    "keywords": ["为难", "求安慰"]
+    "keywords": ["委屈", "难过", "哭", "可怜", "为难", "求安慰"]
   },
   {
     "name": "Lulu-夸赞",
-    "category": "开心 夸赞 厉害 棒",
+    "category": "开心 高兴 快乐 笑 棒 赞 厉害",
     "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/lulu_003_nice.gif",
-    "keywords": ["优秀", "赞"]
+    "keywords": ["夸赞", "优秀", "表扬"]
   },
   {
     "name": "Lulu-得意",
-    "category": "得意 调皮 嘲笑 坏笑",
+    "category": "调皮 搞怪 淘气 玩耍 嬉戏",
     "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/lulu_004_gloat.gif",
-    "keywords": ["搞怪"]
+    "keywords": ["得意", "嘲笑", "坏笑"]
   },
   {
     "name": "Lulu-亲亲",
-    "category": "亲亲 爱 贴贴 喜欢",
+    "category": "可爱 萌 关心 温柔 爱护",
     "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/lulu_005_kiss.gif",
-    "keywords": ["么么"]
+    "keywords": ["亲亲", "爱", "贴贴", "喜欢", "么么"]
   },
   {
     "name": "Lulu-可爱猫",
-    "category": "吃 饿 零食 好吃",
+    "category": "吃 美食 饿 香 好吃 馋 食物",
     "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/lulu_006_cutecat.gif",
-    "keywords": ["吃瓜"]
+    "keywords": ["吃瓜", "零食"]
   },
   {
     "name": "Lulu-大亲亲",
-    "category": "亲亲 爱 爆爱 贴贴",
+    "category": "可爱 萌 小可爱 卖萌 温柔 爱护",
     "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/lulu_007_bigkiss.gif",
-    "keywords": ["疯狂亲亲"]
+    "keywords": ["疯狂亲亲", "爆爱", "贴贴"]
   },
   {
     "name": "Lulu-小哭",
-    "category": "哭 难过 委屈 可怜",
+    "category": "抱歉 不好意思 对不起 安慰",
     "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/lulu_008_littlecry.jpg",
-    "keywords": ["轻轻哭"]
+    "keywords": ["哭", "难过", "委屈", "轻轻哭"]
   },
   {
     "name": "Lulu-抱抱",
-    "category": "抱抱 安慰 关心 温暖",
+    "category": "关心 安慰 抱抱 温柔 温暖 照顾 体贴",
     "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/lulu_009_bighug.gif",
-    "keywords": ["贴贴"]
+    "keywords": ["抱抱", "贴贴", "关心"]
   },
   {
     "name": "Yu-哭泣",
-    "category": "哭 难过 崩溃 委屈",
+    "category": "抱歉 对不起 不好意思 道歉 错了",
     "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_001_cry.png",
-    "keywords": ["呜呜"]
+    "keywords": ["哭", "难过", "崩溃", "委屈", "呜呜"]
   },
   {
     "name": "Yu-开心",
-    "category": "开心 高兴 快乐 笑",
+    "category": "开心 高兴 快乐 笑 激动 兴奋 哈哈",
     "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_002_happy.jpg",
-    "keywords": ["激动"]
+    "keywords": ["开心", "快乐"]
   },
   {
     "name": "Yu-疑惑",
-    "category": "疑惑 不懂 什么 为什么",
+    "category": "疑惑 困惑 不明白 不知道 好奇 有趣",
     "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_003_wonder.jpg",
-    "keywords": ["困惑"]
+    "keywords": ["疑惑", "困惑", "为什么"]
   },
   {
     "name": "Yu-亲亲",
-    "category": "亲亲 爱 喜欢 贴贴",
+    "category": "可爱 萌 关心 温柔 体贴 爱护",
     "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_004_kiss.jpg",
-    "keywords": ["么么"]
+    "keywords": ["亲亲", "爱", "喜欢", "贴贴", "么么"]
   },
   {
     "name": "Yu-扭来扭去",
-    "category": "调皮 撒娇 耍赖 搞怪",
+    "category": "调皮 搞怪 淘气 玩耍 卖萌 呆萌",
     "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_005_intimate.gif",
-    "keywords": ["贴贴"]
+    "keywords": ["撒娇", "耍赖", "贴贴"]
   },
   {
     "name": "Yu-开心吉伊",
-    "category": "开心 快乐 庆祝 兴奋",
+    "category": "开心 快乐 高兴 兴奋 激动 笑 嘻嘻",
     "url": "https://raw.githubusercontent.com/yugmail/yu-ast-emojis/main/images/yu_006_happychii.gif",
-    "keywords": ["摇头"]
+    "keywords": ["庆祝", "摇头", "开心"]
   }
 ]
